@@ -6,6 +6,6 @@
 
 ### git clone https://github.com/uadrianzin/ddos.v3
 
-### cd ddos
+### cd ddos.v3
 
 ### python3 ddos.py
